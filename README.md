@@ -1,4 +1,4 @@
-Multipload Addon
+Multiupload Addon
 ================
 
 
@@ -8,7 +8,7 @@ Das AddOn bietet die Möglichkeit, mehrere Dateien auf einmal in den Medienpool 
 Installation
 -------
 
-* Addon herunterladen, entpacken und ggf. umbenennen zu 'mulitupload'
+* Addon herunterladen, entpacken und ggf. umbenennen zu 'multiupload'
 * Das Addon in das Redaxo5 AddOns Verzeichnis /redaxo/src/addons/ ablegen
 * Im REDAXO CMS Backend unter Addons das multiupload-Addon installieren
 
